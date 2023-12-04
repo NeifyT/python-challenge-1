@@ -25,11 +25,11 @@ The code also contains comments indicating what portions of the program must sti
 
 ## Challenge Checklist
 
-- [ ] Initialize an empty order list (dictionaries)
-- [ ] Request user input of menu item number
-- [ ] Validate user input
-- [ ] Match item and prompt for quanity
-- [ ] Request user for continuation of order
+- [x] Initialize an empty order list (dictionaries)
+- [x] Request user input of menu item number
+- [x] Validate user input
+- [x] Match item and prompt for quanity
+- [x] Request user for continuation of order
 - [ ] Iterate customer order
 - [ ] Set variables
 - [ ] Calculate spaces for clean output :frowning:
